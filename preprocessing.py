@@ -1,4 +1,4 @@
-# -------------------- STEP 1 (FIXED & ROBUST): RAM-SAFE MULTI-YEAR SAMPLING --------------------
+#-------------------- STEP 1 (FIXED & ROBUST): RAM-SAFE MULTI-YEAR SAMPLING --------------------
 # Goal: Create a representative dataset covering 2007-2018 that fits in RAM.
 import os, sys, warnings, gc
 from pathlib import Path
